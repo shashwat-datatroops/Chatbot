@@ -1,0 +1,12 @@
+APPOINTMENT CONFIRMATION
+=======================
+
+Doctor: Dr. Aksh
+Date: May 5, 2025
+Time: 10:00 AM
+Department: neurology
+Procedure: Not specified
+Phone Number: 1234567890
+
+Please arrive 15 minutes before your appointment.
+Bring your insurance card and ID.
