@@ -1,0 +1,11 @@
+flask
+flask-cors
+langchain
+langchain-community
+langchain-openai
+python-dateutil
+dateparser
+PyMuPDF
+faiss-cpu
+openai
+requests
